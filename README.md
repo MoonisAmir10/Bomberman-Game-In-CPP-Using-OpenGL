@@ -7,4 +7,4 @@ A **skeleton** code was provided by our teacher, which initialized the graphics 
 
 Currently, the bomberpacman is able to move in a relatively smooth fashion and there is edge/obstacle detection to some extent, although not perfect. Collision with the ghost also results in a game over. And the level resets to a random new layout. 
 
-Bomb placement also works, and is centered. After a few seconds, it explodes, resulting in nearby destructable blocks and/or ghosts to be destroyed. Ofcourse, the player can die aswell.
+Bomb placement also works, and is centered. After a few seconds, it explodes, resulting in nearby destructable blocks and/or ghosts to be destroyed. Ofcourse, the player can die as well.
